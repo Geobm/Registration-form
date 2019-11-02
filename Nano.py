@@ -72,6 +72,7 @@ Checkbutton(init, text="IR spectroscopy", variable=var1).place(x=235,y=330)
 Checkbutton(init, text="Other programs", variable=var2).place(x=235,y=350)
 
 Button(init, text='Submit',width=20,bg='grey',fg='white',command=database).place(bordermode = OUTSIDE, x=180, y=380)
-#Button(init, text'Clear'width = 10, bg='grey', command = clear).place(x=250,380 y= )
+#Button(init, text'Clear'width = 10, bg='grey', command = clear).place(x=250,y=380)
 init.mainloop()
+
 
