@@ -55,6 +55,7 @@ entry_2.place(x=240,y=180)
 entry_2.config(show="*")
 
 
+
 label_4 = Label(init, text="Section ",width=20,font=("bold", 10))
 label_4.place(x=80,y=250)
 
