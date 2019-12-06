@@ -14,7 +14,6 @@ area = StringVar()
 name = StringVar()
 var1 = IntVar()
 var2 = IntVar()
-admin = StringVar()
 
 def database():
    username = Username.get()
